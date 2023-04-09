@@ -1,0 +1,56 @@
+.carouselImageOne {
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(#33333377, #333333a6), url('../../../../public/images/html-certificate.png');
+    background-position: center;
+    background-size: cover;
+
+}
+
+.carouselImageTwo {
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(#33333377, #333333a6), url('../../../../public/images/css-certificate.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.carouselImageThree {
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(#33333377, #333333a6), url('../../../../public/images/javascript-certificate.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.carouselImageFour {
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(#33333377, #333333a6), url('../../../../public/images/nodejs-certificate.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.carouselImageFive {
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(#33333377, #333333a6), url('../../../../public/images/react-certificate.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.carouselImageSix {
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(#33333377, #333333a6), url('../../../../public/images/php-certificate.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.carouselImageSeven {
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(#33333377, #333333a6), url('../../../../public/images/java-certificate.png');
+    background-position: center;
+    background-size: cover;
+}

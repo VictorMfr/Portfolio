@@ -1,0 +1,12 @@
+.profileBackground {
+    background-image: url("../../../../public/images/waves-backgroundprofile.svg");
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.profileImage {
+    background-image: url('../../../../public/images/profileImage.jpg');
+    background-position: 100%;
+    background-size: cover;
+}

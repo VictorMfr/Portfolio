@@ -1,1 +1,35 @@
-@import './bootstrap-styles/bootstrap.css'
+@import './bootstrap-styles/bootstrap.css';
+
+.background {
+    background-image: linear-gradient(#0000009d, #00000098), url('../public/images/fondo.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 60vw;
+    height: 40vh;
+    margin: auto;
+}
+
+@media (max-width: 720px) {
+    .background {
+        width: 100vw;
+    }
+}
+
+.projectcarousel {
+    background-position: center;
+    background-size: cover;
+}
+
+body {
+    overflow: overlay;
+}
+
+::-webkit-scrollbar {
+    background: transparent ;
+    width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgb(180, 180, 180);
+}
+
